@@ -1,12 +1,36 @@
-# React + Vite
+Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and fully interactive personal portfolio built with React.
+Designed to showcase my skills, projects, experience, and personality in a clean and visually pleasing way.
 
-Currently, two official plugins are available:
+This portfolio represents who I am as a developer —
+focused on growth, obsessed with clean UI, and always learning.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Modern UI / UX
 
-## Expanding the ESLint configuration
+Clean glassmorphism design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Smooth animations and transitions
+
+Fully responsive on all devices
+
+Sections Included
+
+Hero Section — short intro + CTAs
+
+About Me — my background, tech journey, and mindset
+
+Skills Section — categorized skills with knowledge meters
+
+Projects — real + personal projects with descriptions
+
+More About Me Page — deeper insights into my personality & beliefs
+
+Contact Page — dedicated separate page with my contact details
+
+Dark / Light Theme Toggle
+
+Smooth theme switching
+
+Persists user preference
