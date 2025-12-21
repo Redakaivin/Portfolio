@@ -32,5 +32,3 @@ Contact Page — dedicated separate page with my contact details
 Dark / Light Theme Toggle
 
 Smooth theme switching
-
-Persists user preference
